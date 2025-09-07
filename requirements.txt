@@ -76,6 +76,7 @@ funcy==2.0
 gitdb==4.0.12
 GitPython==3.1.44
 grandalf==0.8
+graphviz==0.21
 gto==1.7.2
 h11==0.14.0
 httpcore==1.0.7
@@ -83,8 +84,10 @@ httpx==0.28.1
 hydra-core==1.3.2
 idna==3.10
 iniconfig==2.0.0
-ipykernel==6.29.5
+ipycytoscape==1.3.3
+ipykernel==6.30.1
 ipython==8.31.0
+ipywidgets==8.1.7
 isoduration==20.11.0
 iterative-telemetry==0.0.9
 jedi==0.19.2
@@ -104,6 +107,8 @@ jupyter_server_terminals==0.5.3
 jupyterlab==4.3.4
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
+jupyterlab_widgets==3.0.15
+kagglehub==0.3.13
 kiwisolver==1.4.8
 kombu==5.4.2
 locket==1.0.0
@@ -113,6 +118,7 @@ MarkupSafe==3.0.2
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
 mdurl==0.1.2
+missingno==0.5.2
 mistune==3.1.0
 msgpack==1.1.0
 multidict==6.1.0
@@ -135,6 +141,7 @@ parso==0.8.4
 partd==1.4.2
 pathspec==0.12.1
 patsy==1.0.1
+pexpect==4.9.0
 pillow==11.1.0
 platformdirs==4.3.6
 pluggy==1.5.0
@@ -143,6 +150,7 @@ prompt_toolkit==3.0.48
 propcache==0.2.1
 protobuf==5.29.2
 psutil==6.1.1
+ptyprocess==0.7.0
 pure_eval==0.2.3
 pyarrow==18.1.0
 pycparser==2.22
@@ -185,6 +193,7 @@ smmap==5.0.2
 sniffio==1.3.1
 sortedcontainers==2.4.0
 soupsieve==2.6
+spectate==1.0.1
 sqltrie==0.11.1
 stack-data==0.6.3
 statsmodels==0.14.4
@@ -214,6 +223,7 @@ wcwidth==0.2.13
 webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
+widgetsnbextension==4.0.14
 wrapt==1.17.2
 xyzservices==2024.9.0
 yarl==1.18.3
