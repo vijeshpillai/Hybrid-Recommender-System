@@ -1,5 +1,8 @@
 # Project Overview: Spotify Hybrid Recommender System
 
+## Run the App
+https://vijeshpillai-hybrid-recommender-system.streamlit.app/
+
 ## What are Recommender Systems?
 Recommender systems are algorithms that suggest content to users based on their preferences and behavior. Think of them as a friend who knows your likes and dislikes and adapts to your current mood. For example, if you enjoy horror movies but just went through a breakup, the system might avoid romantic-horror films and recommend a pure horror movie like *Hannibal* instead. These systems adapt to dynamic user preferences, making recommendations more relevant over time.
 
